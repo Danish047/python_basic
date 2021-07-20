@@ -1,9 +1,5 @@
  # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  7 13:04:12 2018
 
-@author: sky
-"""
 i=12121211
 print('hi {:+10d} my {}'.format(i,i))
 """
