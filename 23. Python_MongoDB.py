@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 15 22:27:47 2018
 
-@author: james
 """
 #before run this file please run mongodb server
 #check weather mongodb server running or not by url https://localhost:27017/
