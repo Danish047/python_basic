@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 29 13:27:11 2018
 
-@author: james
+@author: danish khan
 """
 
 # syntax int(binary number, base)
