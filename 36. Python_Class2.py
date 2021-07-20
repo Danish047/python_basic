@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Sep 23 20:39:29 2018
 
-@author: james
+
+@author: danish khan
 """
 
 class Employee: 
