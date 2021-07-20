@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug 27 19:33:07 2019
 
-@author: james
+@author:danish khan
 """
 """
 OS Module in Python with Examples
