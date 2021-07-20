@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 13 15:36:24 2018
 
-@author: sky
+@author: danish khan
 """
 """
 python has four type of loop:
