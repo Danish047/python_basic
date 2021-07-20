@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep  5 13:27:07 2018
-@author: james
+
+@author: danish khan
 """
 
 import random
