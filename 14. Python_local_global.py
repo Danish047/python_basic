@@ -1,9 +1,5 @@
  # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 11 09:21:08 2018
 
-@author: Mukul Kirti Verma
-"""
 #by default all variable are local
 
 
