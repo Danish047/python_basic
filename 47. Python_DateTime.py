@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 24 19:08:45 2018
 
-@author: james
+
+@author: danish khan
 """
 """
 Mathematically a set is a collection of items not in any 
