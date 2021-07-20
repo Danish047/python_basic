@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 13 11:52:49 2018
 
-@author: sky
-"""
 #Python list is a collection of hetroginous datatyps
 
 #creating list
