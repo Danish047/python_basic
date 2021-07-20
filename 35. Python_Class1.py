@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 28 23:18:20 2018
 
-@author: sky
+
+@author: danish khan
 """
 """
 class ClassName:
