@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep  7 11:36:58 2018
 
-@author: james
+@author: danish khan
 """
 
 i=6
