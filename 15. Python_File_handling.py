@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-
-
 #open a file
 fo = open(r"new.txt", "w+")
 
