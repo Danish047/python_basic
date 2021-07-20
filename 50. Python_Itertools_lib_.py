@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May  8 18:18:28 2020
 
-@author: Mukul Kirti Verma
+
+@author:danish khan
 """
 
 import itertools
