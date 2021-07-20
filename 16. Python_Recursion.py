@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May  7 15:45:07 2020
-
-@author: Mukul Kirti Verma
-"""
 
 #ptython recursion
 
