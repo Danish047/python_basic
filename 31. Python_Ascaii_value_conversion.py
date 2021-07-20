@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 29 14:25:17 2018
 
-@author: james
+@author: danish khan
 """
 
 #convert by string library
