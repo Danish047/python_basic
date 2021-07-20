@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  7 17:53:17 2018
 
-@author: sky
-"""
 
 #define a function
 def fun():
