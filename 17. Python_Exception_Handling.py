@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jul  2 14:31:30 2018 
-@author: sky
-"""
 
 l=[]
 i=0
