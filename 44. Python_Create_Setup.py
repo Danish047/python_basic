@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 26 15:04:42 2018
 
-@author: james
+@author:danish khan
 """
 """
 my_cx_freeze.py
