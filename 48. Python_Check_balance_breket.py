@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 26 13:51:27 2018
 
-@author: james
+@author: danish khan
 """
 
 str1="((())))("
