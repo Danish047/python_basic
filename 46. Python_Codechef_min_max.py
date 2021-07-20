@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 14 23:58:37 2019
 
-@author: james
+
+@author: danish khan
 """
 
 t=input()
