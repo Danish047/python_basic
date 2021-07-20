@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 10 12:18:56 2019
 
-@author: james
-"""
-"""
+
 Tkinter Widgets
 Tkinter provides various controls, such as buttons, labels and text boxes used in a GUI application. These controls are commonly called widgets.
 
