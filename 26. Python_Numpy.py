@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug 16 13:14:34 2018
 
-@author: Mukul Kirti Verma
+
+@author: danish khan
 """
 #Numpy lib is beautiful library for mathmatical  operations .
 
