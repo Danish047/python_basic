@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul  3 01:04:51 2018
 
-@author: sky
-"""
 #Create a simple generator
 def simpleGeneratorFun():
     yield 1           
