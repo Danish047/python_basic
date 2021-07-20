@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun 12 12:44:07 2018
 
-@author: sky
+@author: danish khan
 """
 
 #!/usr/bin/python
