@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 12 15:51:50 2018
 
-@author: james
-"""
 """
 Running several threads is similar to running several different programs concurrently, but with the following benefits −
 
