@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 26 11:20:50 2018
-
-@author: james
+@author: danish khan
 """
 #type casting is to convert one datatype to other
 
