@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep 27 18:38:31 2018
 
-@author: james
+@author: danish khan
 """
 
 #some math function
