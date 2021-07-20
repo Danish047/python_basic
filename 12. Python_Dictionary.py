@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 13 15:14:10 2018
 
-@author: sky
-"""
 #creating dictionary
 dict1={}
 dict1={1:2,3:4,5:6}
